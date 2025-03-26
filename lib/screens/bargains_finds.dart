@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class BargainsFinds extends StatelessWidget {
-  const BargainsFinds({Key? key}) : super(key: key);
+  const BargainsFinds({super.key});
 
   @override
   Widget build(BuildContext context) {
