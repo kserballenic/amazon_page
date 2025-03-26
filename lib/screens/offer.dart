@@ -44,10 +44,7 @@ class CustomContainer extends StatelessWidget {
                 margin: EdgeInsets.only(right: 5),
                 width: 40,
                 height: 40,
-                child: Image.asset(
-                  'amazon_page/assets/images/OIP.png',
-                  fit: BoxFit.cover,
-                ),
+                child: Image.asset('assets/images/OIP.png', fit: BoxFit.cover),
               ),
               // Imagen 2
               Container(
@@ -55,7 +52,7 @@ class CustomContainer extends StatelessWidget {
                 width: 40,
                 height: 40,
                 child: Image.asset(
-                  'amazon_page/assets/images/R (1).png',
+                  'assets/images/R (1).png',
                   fit: BoxFit.cover,
                 ),
               ),
